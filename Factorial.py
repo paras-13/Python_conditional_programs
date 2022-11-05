@@ -1,4 +1,4 @@
-# Factorial
+# Factorial of a number
 a=1
 def factorial(num):
     global a
